@@ -1,7 +1,7 @@
 # ⚠️ Discord Tools Script
 
 > ⚠️ **Disclaimer**  
-> This script is potentially malicious and unethical. It can be used for harmful purposes, such as stealing user tokens, personal information, and other sensitive data. Using this script for malicious purposes without user consent is illegal and violates ethical guidelines. **Do not use this script without proper authorization.**
+> This script is potentially unethical. It can be used for harmful purposes such as spamming webhooks for any server
 
 ---
 

@@ -1,0 +1,1 @@
+Put discord tokens here if you have any to use on the tool

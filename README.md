@@ -7,7 +7,7 @@
 
 ## ✨ Features
 
-- **webhook hacker**: Scrape all webhooks from any server withotu any permissions
+- **webhook hacker**: Scrape all webhooks from any server with out any permissions 
 
 ---
 
